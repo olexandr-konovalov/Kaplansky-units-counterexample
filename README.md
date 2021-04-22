@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/alex-konovalov/Kaplansky-units-counterexample/main?filepath=counterexample.ipynb)
 
-# Kaplansky-units-counterexample
+# Checking counterexample to Kaplansky units conjecture
 
 We follow the proof by Giles Gardam in "A counterexample to the unit conjecture for group rings"
 (https://arxiv.org/abs/2102.11818) and provide an independent verification of the calculations in GAP.
