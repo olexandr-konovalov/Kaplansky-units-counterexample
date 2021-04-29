@@ -1,5 +1,5 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/alex-konovalov/Kaplansky-units-counterexample/main?filepath=counterexample.ipynb)
-[![DOI](https://zenodo.org/badge/357992016.svg)](https://zenodo.org/badge/latestdoi/357992016)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4710733.svg)](https://doi.org/10.5281/zenodo.4710733)
 
 # Checking counterexample to Kaplansky units conjecture
 
